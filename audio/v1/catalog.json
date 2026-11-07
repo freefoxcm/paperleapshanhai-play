@@ -1,0 +1,89 @@
+{
+  "version": "audio-v1",
+  "effects": {
+    "click": [
+      "selected-v2/click-a01344.wav"
+    ],
+    "aim-start": [
+      "aim-start-bowstring-6816.wav"
+    ],
+    "aim-loop": [
+      "aim-loop-02.wav"
+    ],
+    "aim-full": [
+      "aim-full-01.wav"
+    ],
+    "aim-cancel": [
+      "aim-cancel-01.wav"
+    ],
+    "launch": [
+      "selected-v2/launch-a01300.wav"
+    ],
+    "wall": [
+      "wall-arrow-ricochet-6823.wav"
+    ],
+    "stone": [
+      "selected-v2/stone-a00970.wav"
+    ],
+    "hit": [
+      "selected-v2/hit-a01891.wav"
+    ],
+    "shield-hit": [
+      "selected-v2/shield-a01338.wav"
+    ],
+    "hero-hit": [
+      "selected-v2/vocal-a00062.wav"
+    ],
+    "death": [
+      "selected-v2/vocal-a00062.wav"
+    ],
+    "boss-death": [
+      "selected-v2/vocal-a00062.wav"
+    ],
+    "hero-death": [
+      "selected-v2/vocal-a00062.wav"
+    ],
+    "skill-mountain": [
+      "skill-mountain-01.wav"
+    ],
+    "skill-bird": [
+      "skill-bird-01.wav"
+    ],
+    "skill-turtle": [
+      "skill-turtle-01.wav"
+    ],
+    "wave": [
+      "wave-01.wav"
+    ],
+    "win": [
+      "win-01.wav"
+    ],
+    "lose": [
+      "lose-01.wav"
+    ],
+    "heavy-hit": [
+      "selected-v2/heavy-hit-a00618.wav"
+    ],
+    "foe-attack-rock": [
+      "selected-v2/enemy-rock-a00023.wav"
+    ],
+    "foe-attack-fire": [
+      "selected-v2/enemy-fire-a00617.wav"
+    ],
+    "foe-attack-claw": [
+      "selected-v2/enemy-claw-a01759.wav"
+    ]
+  },
+  "music": {
+    "menu": "music-v1/menu-wuxia2_guzheng_pipa.ogg",
+    "battle": "music-v1/battle-wuxia2.ogg",
+    "boss": "music-v1/boss-wuxia3.ogg"
+  },
+  "selectionVersion": "audio-selected-v2",
+  "musicGain": {
+    "menu": 0.3564511334262442,
+    "battle": 0.2907367959444229,
+    "boss": 0.3165920463432238
+  },
+  "musicSelectionVersion": "music-selected-v1"
+}

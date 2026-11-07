@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" preserveAspectRatio="none">
+      <defs>
+        <filter id="shadow" x="-10%" y="-15%" width="120%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#76552d" flood-opacity=".2"/></filter>
+        <pattern id="fiber" width="43" height="37" patternUnits="userSpaceOnUse"><path d="m7 9 3-1m20 18 2 1m-14 3 3-2" stroke="#b59061" stroke-width=".5" opacity=".15"/></pattern>
+        <pattern id="waves" width="56" height="40" patternUnits="userSpaceOnUse"><path d="M-28 40Q0 0 28 40M0 40Q28 0 56 40M28 40Q56 0 84 40" fill="none" stroke="#ffba87" stroke-width=".7" opacity=".13"/></pattern>
+      </defs>
+      <g filter="url(#shadow)"><rect x="6" y="6" width="708" height="144" rx="17" fill="#fff3dc" stroke="#8aab9c" stroke-width="2"/>
+      <rect x="12" y="12" width="696" height="132" rx="12" fill="url(#fiber)" stroke="#c5ac80" stroke-width="1.5"/></g>
+      
+      <g transform="translate(14 138) scale(1 1)"><path d="M0 0V-32Q14-11 28-16Q45-23 42-6Q38 5 23-3Q32-3 29-9Q20-15 14 0Z" fill="#d9c9a3"/><path d="M0 0Q11-13 19-8Q29 0 36-6Q35 10 0 0" fill="#bda983" opacity=".85"/></g><g transform="translate(706 138) scale(-1 1)"><path d="M0 0V-32Q14-11 28-16Q45-23 42-6Q38 5 23-3Q32-3 29-9Q20-15 14 0Z" fill="#d9c9a3"/><path d="M0 0Q11-13 19-8Q29 0 36-6Q35 10 0 0" fill="#bda983" opacity=".85"/></g>
+    </svg>
